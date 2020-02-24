@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Where-Watch/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Where-Watch/static/js/main.ce1fc85a.chunk.js",
+    "main.js.map": "/Where-Watch/static/js/main.ce1fc85a.chunk.js.map",
+    "runtime-main.js": "/Where-Watch/static/js/runtime-main.00808257.js",
+    "runtime-main.js.map": "/Where-Watch/static/js/runtime-main.00808257.js.map",
+    "static/js/2.65524267.chunk.js": "/Where-Watch/static/js/2.65524267.chunk.js",
+    "static/js/2.65524267.chunk.js.map": "/Where-Watch/static/js/2.65524267.chunk.js.map",
+    "index.html": "/Where-Watch/index.html",
+    "precache-manifest.5de7a0e704291d1a2eaebb93188643ff.js": "/Where-Watch/precache-manifest.5de7a0e704291d1a2eaebb93188643ff.js",
+    "service-worker.js": "/Where-Watch/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Where-Watch/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.65524267.chunk.js.LICENSE.txt": "/Where-Watch/static/js/2.65524267.chunk.js.LICENSE.txt",
+    "static/media/logo.jpg": "/Where-Watch/static/media/logo.b5f31408.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00808257.js",
+    "static/js/2.65524267.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.ce1fc85a.chunk.js"
+  ]
+}
